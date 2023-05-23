@@ -1,0 +1,6 @@
+---
+title: "The firm II"
+date: "2022-06-27"
+---
+
+This session is a continuation of [session 7](/content/07-content.qmd).

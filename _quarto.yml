@@ -37,55 +37,51 @@ website:
       - syllabus.qmd
       - schedule.qmd
       - text: "Classes and readings"
-        file: class/index.qmd
+        file: content/index.qmd
       - text: "Assignments"
         file: assignment/index.qmd
 
   sidebar:
-    - title: "Classes"
+    - title: "Classes and readings"
       style: "docked"
       search: false
       background: light
       contents:
         - section: "Overview"
           contents:
-            - class/index.qmd
-        - section: "Classes"
+            - content/index.qmd
+        - section: "Capitalism, markets, and public policy"
           contents:
-            - section: "1–4: Foundations of public management and governance"
-              contents:
-                - text: "1: Introduction to public administration and management"
-                  file: class/01-class.qmd
-                - text: "2: Rediscovery of bureaucracy and good governance"
-                  file: class/02-class.qmd
-                - text: "3: Quality of government and governance outcomes"
-                  file: class/03-class.qmd
-                - text: "4: Institutions"
-                  file: class/04-class.qmd
-            - section: "5–9: Comparative bureaucracy and civil society"
-              contents:
-                - text: "5: Bureaucracy and governance outcomes"
-                  file: class/05-class.qmd
-                - text: "6: Bureaucracy and bureaucratic behavior"
-                  file: class/06-class.qmd
-                - text: "7: Civil society and good governnace"
-                  file: class/07-class.qmd
-                - text: "8: Civil society across countries"
-                  file: class/08-class.qmd
-                - text: "~~9: Representative bureaucracy and philanthropy~~"
-                  file: class/09-class.qmd
-            - section: "10–14: Regional deep dives"
-              contents:
-                - text: "10: The OECD"
-                  file: class/10-class.qmd
-                - text: "11: Latin America"
-                  file: class/11-class.qmd
-                - text: "12: Africa"
-                  file: class/12-class.qmd
-                - text: "13: Middle East and North Africa"
-                  file: class/13-class.qmd
-                - text: "14: Asia"
-                  file: class/14-class.qmd
+            - text: "1: Capitalism and measurement"
+              file: content/01-content.qmd
+            - text: "2: Governments and institutions"
+              file: content/02-content.qmd
+            - text: "3: Social interactions and economic outcomes"
+              file: content/03-content.qmd
+            - text: "4: Fairness and efficiency"
+              file: content/04-content.qmd
+        - section: "Economic models"
+          contents:
+            - text: "5–6: Work, wellbeing, and scarcity"
+              file: content/05-content.qmd
+            - text: "7–8: The firm"
+              file: content/07-content.qmd
+            - text: "9–10: Firms and markets"
+              file: content/09-content.qmd
+        - section: "Market failures and institutions"
+          contents:
+            - text: "11: Institutions, power, and inequality"
+              file: content/11-content.qmd
+            - text: "12: Market failures"
+              file: content/12-content.qmd
+            - text: "13: When governments go wrong"
+              file: content/13-content.qmd
+            - text: "14: Institutional alternatives"
+              file: content/14-content.qmd
+        - section: "Conclusions"
+          contents:
+            - text: "15: Markets, public policy, and public administration"
+              file: content/15-content.qmd
 
     - title: "Assignments"
       contents:

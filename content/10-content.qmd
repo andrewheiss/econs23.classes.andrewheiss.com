@@ -1,0 +1,6 @@
+---
+title: "Firms and markets II"
+date: "2022-07-05"
+---
+
+This session is a continuation of [session 9](/content/09-content.qmd).

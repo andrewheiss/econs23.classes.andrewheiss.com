@@ -1,0 +1,6 @@
+---
+title: "Work, wellbeing, and scarcity II"
+date: "2022-06-20"
+---
+
+This session is a continuation of [session 5](/content/05-content.qmd).
