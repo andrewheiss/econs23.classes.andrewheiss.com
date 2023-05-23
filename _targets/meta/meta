@@ -1,0 +1,8 @@
+name|type|data|command|depend|seed|path|time|size|bytes|format|repository|iteration|parent|children|seconds|warnings|error
+.Random.seed|object|f1eaeadb35b9179a|||||||||||||||
+base_url|object|f376d66bf09c1ae3|||||||||||||||
+class_number|object|e0b5053a9b9aa121|||||||||||||||
+here_rel|function|db01910605ef2de6|||||||||||||||
+page_suffix|object|e09c8ee15abe52ba|||||||||||||||
+readme|stem|c3ae0889458e392f|55693cd91de57861|a3c94d59d55eb750|-165896733|README_files*README.md*README.qmd|t19500.2166804292s|54b67fe47d600cbb|48940|file|local|vector|||2.305||
+workflow_graph|stem|43402a61677717f1|d5484f53d99da7f3|7132ccce4af0b630|-789616025||t19500.2027364334s|53c93953a72b96c1|178|rds|local|vector|||1.453||
