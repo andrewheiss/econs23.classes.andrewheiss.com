@@ -40,6 +40,8 @@ website:
         file: content/index.qmd
       - text: "Assignments"
         file: assignment/index.qmd
+      - text: "Resources"
+        file: resource/index.qmd
 
   sidebar:
     - title: "Classes and readings"
@@ -106,6 +108,27 @@ website:
             - assignment/05-weekly-check-in.qmd
             - assignment/06-weekly-check-in.qmd
             - assignment/07-weekly-check-in.qmd
+    
+    - title: "Resources"
+      contents:
+        - section: "Resources"
+          contents:
+            - resource/index.qmd
+            - resource/citations.qmd
+            - resource/exam1.qmd
+            - resource/exam2.qmd
+            - resource/practice-questions.qmd
+        - section: "Guides"
+          contents:
+            - resource/inflation.qmd
+            - resource/advantage.qmd
+            - resource/game-theory.qmd
+            - resource/indifference-budget.qmd
+            - resource/income-substitution.qmd
+            - resource/costs.qmd
+            - resource/supply-demand.qmd
+            - resource/monopoly.qmd
+
 
   page-footer:
     left: |
