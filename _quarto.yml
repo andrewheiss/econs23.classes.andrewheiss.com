@@ -88,17 +88,24 @@ website:
         - section: "Overview"
           contents:
             - assignment/index.qmd
-        - section: "Preparation"
+        - section: "Problem sets"
           contents:
-            - assignment/reading-report.qmd
-            - assignment/presentation-discussion.qmd
-        - section: "Essays"
+            - assignment/01-problem-set.qmd
+            - assignment/02-problem-set.qmd
+            - assignment/03-problem-set.qmd
+            - assignment/04-problem-set.qmd
+            - assignment/05-problem-set.qmd
+            - assignment/06-problem-set.qmd
+            - assignment/07-problem-set.qmd
+        - section: "Weekly check-ins"
           contents:
-            - assignment/data-exploration.qmd
-            - assignment/theory-in-real-life.qmd
-        - section: "Final project"
-          contents:
-            - assignment/policy-brief.qmd
+            - assignment/01-weekly-check-in.qmd
+            - assignment/02-weekly-check-in.qmd
+            - assignment/03-weekly-check-in.qmd
+            - assignment/04-weekly-check-in.qmd
+            - assignment/05-weekly-check-in.qmd
+            - assignment/06-weekly-check-in.qmd
+            - assignment/07-weekly-check-in.qmd
 
   page-footer:
     left: |
