@@ -1,0 +1,123 @@
+project:
+  type: website
+  render:
+    - "*.qmd"
+  resources:
+    - "files/"
+  preview:
+    port: 3333
+
+execute:
+  freeze: auto  # Re-render only when source changes
+
+bibliography: files/bib/readings.bib
+csl: files/bib/chicago-author-date.csl
+description-meta: "Learn how to understand, speak, and do economics in the public sector"
+
+website:
+  title: "Microeconomics for Public Policy"
+  site-url: "https://econs23.classes.andrewheiss.com"
+
+  favicon: "/files/favicon-512.png"
+
+  twitter-card:
+    image: "/files/social-image-s23.png"
+    card-style: summary_large_image
+    creator: "@andrewheiss"
+    # site: "@andrewheiss"
+
+  open-graph:
+    image: "/files/social-image-s23.png"
+    locale: en_US
+
+  navbar:
+    pinned: true
+    background: "#5e81ac"
+    right:
+      - syllabus.qmd
+      - schedule.qmd
+      - text: "Classes and readings"
+        file: class/index.qmd
+      - text: "Assignments"
+        file: assignment/index.qmd
+
+  sidebar:
+    - title: "Classes"
+      style: "docked"
+      search: false
+      background: light
+      contents:
+        - section: "Overview"
+          contents:
+            - class/index.qmd
+        - section: "Classes"
+          contents:
+            - section: "1–4: Foundations of public management and governance"
+              contents:
+                - text: "1: Introduction to public administration and management"
+                  file: class/01-class.qmd
+                - text: "2: Rediscovery of bureaucracy and good governance"
+                  file: class/02-class.qmd
+                - text: "3: Quality of government and governance outcomes"
+                  file: class/03-class.qmd
+                - text: "4: Institutions"
+                  file: class/04-class.qmd
+            - section: "5–9: Comparative bureaucracy and civil society"
+              contents:
+                - text: "5: Bureaucracy and governance outcomes"
+                  file: class/05-class.qmd
+                - text: "6: Bureaucracy and bureaucratic behavior"
+                  file: class/06-class.qmd
+                - text: "7: Civil society and good governnace"
+                  file: class/07-class.qmd
+                - text: "8: Civil society across countries"
+                  file: class/08-class.qmd
+                - text: "~~9: Representative bureaucracy and philanthropy~~"
+                  file: class/09-class.qmd
+            - section: "10–14: Regional deep dives"
+              contents:
+                - text: "10: The OECD"
+                  file: class/10-class.qmd
+                - text: "11: Latin America"
+                  file: class/11-class.qmd
+                - text: "12: Africa"
+                  file: class/12-class.qmd
+                - text: "13: Middle East and North Africa"
+                  file: class/13-class.qmd
+                - text: "14: Asia"
+                  file: class/14-class.qmd
+
+    - title: "Assignments"
+      contents:
+        - section: "Overview"
+          contents:
+            - assignment/index.qmd
+        - section: "Preparation"
+          contents:
+            - assignment/reading-report.qmd
+            - assignment/presentation-discussion.qmd
+        - section: "Essays"
+          contents:
+            - assignment/data-exploration.qmd
+            - assignment/theory-in-real-life.qmd
+        - section: "Final project"
+          contents:
+            - assignment/policy-brief.qmd
+
+  page-footer:
+    left: |
+      Content {{< fa brands creative-commons >}} {{< var course.copyright_year >}} by [{{< var instructor.name_no_title >}}]({{< var instructor.url >}}) <br>
+      All content licensed under a {{< fa brands creative-commons >}}
+      {{< fa brands creative-commons-by >}} {{< fa brands creative-commons-nc >}}
+      [Creative Commons Attribution-NonCommercial 4.0 International license (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/)
+    right: |
+      Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/)<br>
+      [View the source at {{< fa brands github >}} GitHub]({{< var course.github >}})
+
+format:
+  html:
+    theme:
+      - litera
+      - html/custom.scss
+    toc: true
+    highlight-style: monokai
