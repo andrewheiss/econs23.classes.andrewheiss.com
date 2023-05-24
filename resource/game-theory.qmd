@@ -232,26 +232,26 @@ Friend 1's best response is determined by what Friend 2's $q$ is in real life:
 
 $$
 \text{Best response}_{\text{Friend 1}} = 
-\left \\\{ 
+\left \{ 
 \begin{aligned}
 &\text{Chinese } & \text{if } q < \frac{1}{3} \\
 &\text{Italian } & \text{if } q > \frac{1}{3} \\
 &\text{indifferent } & \text{if } q = \frac{1}{3} \\
 \end{aligned}
-\right \\\}
+\right \}
 $$
 
 Similarly, Friend 2's best response is determined by what Friend 1's $p$ is in real life:
 
 $$
 \text{Best response}_{\text{Friend 2}} = 
-\left \\\{ 
+\left \{ 
 \begin{aligned}
 &\text{Chinese } & \text{if } p > \frac{2}{3} \\
 &\text{Italian } & \text{if } p < \frac{2}{3} \\
 &\text{indifferent } & \text{if } p = \frac{1}{3} \\
 \end{aligned}
-\right \\\}
+\right \}
 $$
 
 ### Step 3: Calculate the expected payoff for each player when playing the mixed strategy

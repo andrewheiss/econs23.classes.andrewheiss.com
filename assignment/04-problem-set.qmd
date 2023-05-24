@@ -12,9 +12,9 @@ date: "2023-07-03"
 
 Imagine a mild-mannered professor named Chidi Anagonye who is crippled with decision anxiety. He has to choose the best combination of pizza and frozen yogurt, but doesn't know what to do! Here's the information he has:
 
-- He has a budget of \\\$45 and must spend it all.
-- Slices of Hawaiian pizza cost \\\$3. Abbreviate this as $x$.
-- Bowls of frozen yogurt cost \\\$1.50. Abbreviate this as $y$.
+- He has a budget of $45 and must spend it \$1 all.
+- Slices of Hawaiian pizza cost \$3. Abbreviate this as $x$.
+- Bowls of frozen yogurt cost \$1.50. Abbreviate this as $y$.
 - The happiness Chidi gets from eating pizza and frozen yogurt can be modeled with this utility function:
 
     $$

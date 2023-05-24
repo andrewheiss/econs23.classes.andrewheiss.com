@@ -50,8 +50,8 @@ title: Exam 2 study guide
 
     $$
     \begin{aligned}
-    TC = TFC + TVC \\\\
-    \text{or a formula using } Q \text{, like} \\\\
+    TC = TFC + TVC \\[10pt]
+    \text{or a formula using } Q \text{, like} \\[10pt]
     TC = aQ^2 + b
     \end{aligned}
     $$
@@ -66,9 +66,9 @@ title: Exam 2 study guide
 
     $$
     \begin{aligned}
-    MC &= \frac{\Delta TC}{\Delta Q} \\\\
-    &\text{or} \\\\
-    MC &= \text{First derivative of TC} \\\\
+    MC &= \frac{\Delta TC}{\Delta Q} \\[10pt]
+    &\text{or} \\[10pt]
+    MC &= \text{First derivative of TC} \\
     &= 2aQ \text{ (if } TC = aQ^2 + b)
     \end{aligned}
     $$
@@ -77,9 +77,9 @@ title: Exam 2 study guide
 
     $$
     \begin{aligned}
-    TR &= PQ \\\\
-    &\text{or} \\\\
-    TR &= (aQ + b)Q \\\\
+    TR &= PQ \\[10pt]
+    &\text{or} \\[10pt]
+    TR &= (aQ + b)Q \\
     &= aQ^2 + bQ
     \end{aligned}
     $$
@@ -94,9 +94,9 @@ title: Exam 2 study guide
 
     $$
     \begin{aligned}
-    MR &= \frac{\Delta TR}{\Delta Q} \\\\
-    &\text{or} \\\\
-    MR &= \text{First derivative of TR} \\\\
+    MR &= \frac{\Delta TR}{\Delta Q} \\[10pt]
+    &\text{or} \\[10pt]
+    MR &= \text{First derivative of TR} \\
     &= 2aQ + b \text{ (if } TR = aQ^2 + bQ)
     \end{aligned}
     $$
@@ -110,7 +110,7 @@ title: Exam 2 study guide
 - Price elasticity of demand ([see this guide](/resource/costs.qmd#elasticity-of-demand/) of how to get to $- \frac{\Delta Q}{\Delta P} \times \frac{P}{Q}$):
 
     $$
-    \varepsilon = -\frac{\\\% \text{ change in quantity demand}}{\\\% \text{ change in price}} = - \frac{\Delta Q}{\Delta P} \times \frac{P}{Q}
+    \varepsilon = -\frac{\% \text{ change in quantity demand}}{\% \text{ change in price}} = - \frac{\Delta Q}{\Delta P} \times \frac{P}{Q}
     $$
 
 **Important graphs:**
