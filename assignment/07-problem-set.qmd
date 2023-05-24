@@ -1,6 +1,8 @@
 ---
 title: "Problem set 7"
 date: "2023-07-24"
+csl: "../files/bib/chicago-fullnote-bibliography.csl"
+link-citations: false
 ---
 
 **Submit this as a PDF on iCollege.** You can use whatever you want to make your drawings, including [Gravit Designer](https://gravit.io/), Adobe Illustrator, Excel, PowerPoint, Microsoft Paint, or photographed/scanned pen and paper. **I highly recommend using [Desmos](https://www.desmos.com/) too!**
