@@ -18,10 +18,10 @@ source(here::here("R", "graphics.R"))
 
 ## 1
 
-Marcel Fafchamps and Bart Minten, two economists, studied grain markets in Madagascar in 1997, where the legal institutions for enforcing property rights and contracts were weak.[^fafchamps] Despite this, they found that theft and breach of contract were rare. The grain traders avoided theft by keeping their stocks very low, and if necessary, sleeping in the grain stores. They refrained from employing additional workers for fear of employee-related theft. When transporting their goods, they paid protection money and traveled in convoy. Most transactions were paid in cash. Trust was established through repeated interaction with the same traders.
+Marcel Fafchamps and Bart Minten, two economists, studied grain markets in Madagascar in 1997, where the legal institutions for enforcing property rights and contracts were weak [@FafchampsMinten:1999]. Despite this, they found that theft and breach of contract were rare. The grain traders avoided theft by keeping their stocks very low, and if necessary, sleeping in the grain stores. They refrained from employing additional workers for fear of employee-related theft. When transporting their goods, they paid protection money and traveled in convoy. Most transactions were paid in cash. Trust was established through repeated interaction with the same traders.
 
 
-1. Recall Elinor Ostrom's work on the fishermen in Alanya, Turkey.[^ostrom] Do the findings from Fafchamps and Minten (and Ostrom) suggest that strong legal institutions are not necessary for markets to work? How so? (**≈50 words**)
+1. Recall Elinor Ostrom's work on the fishermen in Alanya, Turkey [@Ostrom:1990]. Do the findings from Fafchamps and Minten (and Ostrom) suggest that strong legal institutions are not necessary for markets to work? How so? (**≈50 words**)
 
 2. Consider some market transactions in which you have been involved. Could these markets work in the absence of a legal framework, and how would they be different if they did? (**≈40 words**)
 
