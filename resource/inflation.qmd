@@ -49,14 +49,16 @@ $$
 
 Use this formula to shift the price index to a different year:
 
-$$\text{Price index}_{\text{new year}} = \frac{\text{Price index}_{\text{current year}}}{\text{Price index}_{\text{new year}}} \times 100$$
+$$
+\text{Price index}_{\text{new year}} = \frac{\text{Price index}_{\text{current year}}}{\text{Price index}_{\text{new year}}} \times 100
+$$
 
 ### Inflation rate
 
 The inflation rate is the percent change in CPI between two periods. The formula for percent change is fairly simple—just remember NOO!
 
 $$
-\text{% change} = \frac{\text{New} - \text{Old}}{\text{Old}}
+\text{\% change} = \frac{\text{New} - \text{Old}}{\text{Old}}
 $$
 
 or
@@ -83,11 +85,15 @@ $$
 
 If we assume interest is compounded once a year, $n$ is 1 and can disappear. This simplifies to:
 
-$$\text{CPI}_{\text{new}} = \text{CPI}_{\text{old}}(1 + r)^{t}$$
+$$
+\text{CPI}_{\text{new}} = \text{CPI}_{\text{old}}(1 + r)^{t}
+$$
 
 We can rearrange the formula so that $r$ is on the righthand side by dividing, exponentiating, logging, and subtracting: 
 
-$$r = \exp(\frac{\ln(\frac{\text{CPI}_{\text{new}}}{\text{CPI}_{\text{old}}})}{t}) - 1$$
+$$
+r = \exp\left(\frac{\ln(\frac{\text{CPI}_{\text{new}}}{\text{CPI}_{\text{old}}})}{t}\right) - 1
+$$
 
 Alternatively, instead of assuming annually compounding interest, we can also assume exponential growth (or continually compounding interest), which uses the following formula (again where $A$, $P$, $r$, and $t$ are the prices in the last year, prices in the first year, the rate, and the number of years:
 
@@ -97,11 +103,15 @@ $$
 
 Or 
 
-$$\text{CPI}_{\text{new}} = \text{CPI}_{\text{old}}e^{rt}$$
+$$
+\text{CPI}_{\text{new}} = \text{CPI}_{\text{old}}e^{rt}
+$$
 
 We can again rearrange the formula so that $r$ is on the righthand side:
 
-$$r = \frac{\ln(\frac{\text{CPI}_{\text{new}}}{\text{CPI}_{\text{old}}})}{t}$$
+$$
+r = \frac{\ln(\frac{\text{CPI}_{\text{new}}}{\text{CPI}_{\text{old}}})}{t}
+$$
 
 In the video, we calculate the compound annual growth rate of inflation. We also answer the following questions:
 

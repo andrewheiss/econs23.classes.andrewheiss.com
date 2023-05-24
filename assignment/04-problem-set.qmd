@@ -46,7 +46,9 @@ The marginal rate of substitution (or slope of Chidi's indifference curve) is $\
 
 Set the slope-only MRS and the ratio of prices equal to each other and solve for $y$ (i.e. make the equation start with $y =$). This is the price-attuned marginal rate of substitution.
 
-$$\frac{2y}{x} = \frac{\text{Price}_\text{Pizza}}{\text{Price}_\text{Yogurt}}$$
+$$
+\frac{2y}{x} = \frac{\text{Price}_\text{Pizza}}{\text{Price}_\text{Yogurt}}
+$$
 
 Finally, find where the price-attuned marginal rate of substitution matches the budget line by solving the system of equations. (Hint: your budget line will be $y = \text{something}\ x ± \text{something}$, and your adjusted MRS will be something like $y = \text{something else}\ x ± \text{something else}$. Take the $y$ of the adjusted MRS, plug it into the $y$ of the budget line, and use algebra to figure out what $x$ is ($\text{something else}\ x ± \text{something else} = \text{something}\ x ± \text{something})$. Then take that $x$, plug it in as $x$ into one of the equations, and solve for $y$.)
 

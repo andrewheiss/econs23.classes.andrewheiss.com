@@ -42,11 +42,15 @@ title: Exam 1 study guide
 
 - Compound annual growth rate (CAGR); periodic method (this assumes interest is compounded once a year; this is the harder method and you don't really need to use it):
 
-    $$r = \exp(\frac{\ln(\frac{\text{Price index}_{\text{new}}}{\text{Price index}_{\text{old}}})}{t}) - 1$$
+    $$
+    r = \exp\left(\frac{\ln(\frac{\text{Price index}_{\text{new}}}{\text{Price index}_{\text{old}}})}{t}\right) - 1
+    $$
 
 - Compound annual growth rate (CAGR): continuous method (this assumes interest is compounded continuously; this is the easier method and you should generally use this):
 
-    $$r = \frac{\ln(\frac{\text{Price index}_{\text{new}}}{\text{Price index}_{\text{old}}})}{t}$$
+    $$
+    r = \frac{\ln(\frac{\text{Price index}_{\text{new}}}{\text{Price index}_{\text{old}}})}{t}
+    $$
 
 **Guides:**
 
