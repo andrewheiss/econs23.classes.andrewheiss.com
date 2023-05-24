@@ -34,9 +34,9 @@ title: Exam 2 study guide
 
 **Guides**
 
-- [Costs](/resource/costs/)
-- [Supply, demand, surplus, DWL, and elasticity](/resource/supply-demand/)
-- [Monopolies](/resource/monopoly/)
+- [Costs](/resource/costs.qmd)
+- [Supply, demand, surplus, DWL, and elasticity](/resource/supply-demand.qmd)
+- [Monopolies](/resource/monopoly.qmd)
 
 **Important formulas:**
 
@@ -107,7 +107,7 @@ title: Exam 2 study guide
     max(\pi): MC = MR
     $$
 
-- Price elasticity of demand ([see this guide](/resource/costs/#elasticity-of-demand/) of how to get to $- \frac{\Delta Q}{\Delta P} \times \frac{P}{Q}$):
+- Price elasticity of demand ([see this guide](/resource/costs.qmd#elasticity-of-demand/) of how to get to $- \frac{\Delta Q}{\Delta P} \times \frac{P}{Q}$):
 
     $$
     \varepsilon = -\frac{\\\% \text{ change in quantity demand}}{\\\% \text{ change in price}} = - \frac{\Delta Q}{\Delta P} \times \frac{P}{Q}

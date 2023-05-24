@@ -160,7 +160,7 @@ Students with special needs should then make an appointment with me during the f
 
 ## Assignments and grades
 
-You can find descriptions for all the assignments on the [assignments page](/assignment/).
+You can find descriptions for all the assignments on the [assignments page](/assignment/index.qmd).
 
 ```{r assignments-grades, include=FALSE}
 assignments <- tribble(
@@ -206,5 +206,5 @@ grading %>%
 
 ## Movies
 
-Once you have read this entire syllabus and [the assignment overview page](/assignment/), please [click here](mailto:aheiss@gsu.edu) and e-mail me the poster for one of your favorite movies.
+Once you have read this entire syllabus and [the assignment overview page](/assignment/index.qmd), please [click here](mailto:aheiss@gsu.edu) and e-mail me the poster for one of your favorite movies.
 

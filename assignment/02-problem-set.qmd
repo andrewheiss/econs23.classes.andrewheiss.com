@@ -125,7 +125,7 @@ maria %>%
 
 1. What kind of game is this? Why? Can cooperation be ensured? How? **Answer in ≈20 words.**
 
-1. **Extra credit:** In the absence of communication, what are the two nonprofits' mixed strategies? (See [the guide in the resources section](/resource/game-theory/) for how to calculate mixed strategies.) How will they guess what the other organization will do? Under what conditions will nonprofit 1 choose to run the shelter? (i.e. what are the probability cutoffs for each nonprofit choosing to run the shelter or distribute paper towels?) **Answer in ≈40 words. Show your work.**
+1. **Extra credit:** In the absence of communication, what are the two nonprofits' mixed strategies? (See [the guide in the resources section](/resource/game-theory.qmd) for how to calculate mixed strategies.) How will they guess what the other organization will do? Under what conditions will nonprofit 1 choose to run the shelter? (i.e. what are the probability cutoffs for each nonprofit choosing to run the shelter or distribute paper towels?) **Answer in ≈40 words. Show your work.**
 
 1. **Extra credit:** What is the expected payoff of engaging in a mixed strategy? (i.e. choosing to gamble based on probability cutoffs rather than communicate and coordinate in person?) **Show your work.**
 

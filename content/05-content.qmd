@@ -24,7 +24,7 @@ I pause a couple times during the lecture sections on indifference curves and ut
 - <i class="fab fa-youtube"></i> [Marginal Revolution University, "Indifference curves"](https://www.youtube.com/watch?v=iOmDo5jLFw8) (watch during the "Utility and indifference" section)
 - <i class="fab fa-youtube"></i> [Marginal Revolution University, "Constraint optimization"](https://www.youtube.com/watch?v=MXIgp-P-FeY) (watch during the "Maximizing utility" section)
 
-Also, a complete walkthrough of how to maximize utility with algebra and graphs is at the ["Utility maximization" guide](/resource/indifference-budget/) in the resources section.
+Also, a complete walkthrough of how to maximize utility with algebra and graphs is at the ["Utility maximization" guide](/resource/indifference-budget.qmd) in the resources section.
 
 
 ## Slides

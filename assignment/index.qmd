@@ -113,4 +113,4 @@ There will be two exams covering (1) capitalism, markets, power, and institution
 
 You will take these exams online through iCollege. The exams will be timed, but you can use notes and readings and [the Google](https://www.youtube.com/watch?v=AQ45fO1uiOQ). You must take the exams on your own though, and not talk to anyone about them.
 
-Study guides for each exam will be posted in [the resources section](/resource/).
+Study guides for each exam will be posted in [the resources section](/resource/index.qmd).

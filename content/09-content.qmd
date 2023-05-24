@@ -23,9 +23,9 @@ params:
 
 These two sessions have a bunch of helpful guides in the resources section:
 
-- [Firm costs + profit maximization](/resource/costs/)
-- [Supply, demand, surplus, DWL, and elasticity](/resource/supply-demand/)
-- [Monopolies](/resource/monopoly/)
+- [Firm costs + profit maximization](/resource/costs.qmd)
+- [Supply, demand, surplus, DWL, and elasticity](/resource/supply-demand.qmd)
+- [Monopolies](/resource/monopoly.qmd)
 
 You should definitely check those guides out and follow along with the examples there. 
 

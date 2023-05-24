@@ -11,7 +11,7 @@ source(here::here("R", "graphics.R"))
 
 **Submit this as a PDF on iCollege.** Show your work when possible.
 
-**Important reminder!**: Remember to check the how-to guides in the [resources section](/resource/) of the course website for step-by-step examples (with video!) of how to do the more mathy problems in this class. You'll want to refer to the guides on [inflation and change](/resource/inflation/) and [absolute and comparative advantage](/resource/advantage/) for this problem set.
+**Important reminder!**: Remember to check the how-to guides in the [resources section](/resource/index.qmd) of the course website for step-by-step examples (with video!) of how to do the more mathy problems in this class. You'll want to refer to the guides on [inflation and change](/resource/inflation.qmd) and [absolute and comparative advantage](/resource/advantage.qmd) for this problem set.
 
 ## 1
 
@@ -75,7 +75,7 @@ Download this dataset:
 
 - [<i class="fas fa-file-excel"></i> `fred_gdp.xlsx`](/files/files/fred_gdp.xlsx)
 
-Following [the examples on this page here](/resource/inflation/), do the following with this data: 
+Following [the examples on this page here](/resource/inflation.qmd), do the following with this data: 
 
 1. Create a column that shows the nominal GDP per capita for the United States.
 1. Create a column that shows the real GDP per capita for the United States in 2012 dollars. You shouldn't use the CPI here. The Fed and other national agencies have a special kind of CPI-like measure for GDP called the "GDP deflator", which is included in the dataset you downloaded. The reference year for this deflator is 2012.

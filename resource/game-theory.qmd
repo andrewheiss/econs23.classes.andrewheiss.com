@@ -161,7 +161,7 @@ There are a bunch of helpful external resources and examples of how to do this, 
 - <i class="fas fa-external-link-square-alt"></i> [Game Theory 101, "Calculating payoffs of mixed strategy Nash equilibria"](http://gametheory101.com/courses/game-theory-101/calculating-payoffs-of-mixed-strategy-nash-equilibria/)
 - <i class="fab fa-youtube"></i> [Game Theory 101, "Chicken"](https://www.youtube.com/watch?v=sww-Zsl0IRY) (a complete example of calculating everything in a chicken game)
 
-Let's do this with the Bach or Stravinksy game that [we used in session 3](/content/03-content/):
+Let's do this with the Bach or Stravinksy game that [we used in session 3](/content/03-content.qmd):
 
 ```{r bos-general, echo=FALSE}
 tribble(

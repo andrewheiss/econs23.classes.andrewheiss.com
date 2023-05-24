@@ -50,7 +50,7 @@ title: Exam 1 study guide
 
 **Guides:**
 
-- [Inflation and change](/resource/inflation/)
+- [Inflation and change](/resource/inflation.qmd)
 
 **Other helpful resources:**
 
@@ -72,7 +72,7 @@ title: Exam 1 study guide
 
 **Guides:**
 
-- [Game theory](/resource/game-theory/)
+- [Game theory](/resource/game-theory.qmd)
 
 **Other helpful resources:**
 
@@ -99,7 +99,7 @@ title: Exam 1 study guide
 
 **Guides:**
 
-- [Absolute and comparative advantage](/resource/advantage/)
+- [Absolute and comparative advantage](/resource/advantage.qmd)
 
 &nbsp;
 
@@ -126,8 +126,8 @@ title: Exam 1 study guide
 
 **Guides:**
 
-- [Utility maximization](/resource/indifference-budget/)
-- [Income and substitution effects](/resource/income-substitution/)
+- [Utility maximization](/resource/indifference-budget.qmd)
+- [Income and substitution effects](/resource/income-substitution.qmd)
 
 **Other helpful resources:**
 

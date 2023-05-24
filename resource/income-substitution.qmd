@@ -4,7 +4,7 @@ title: Income and substitution effects
 
 When there is a change in the price of something, we typically change how much of it we buy. If something is a normal good, we'll buy more of it as our income increases. If something is an inferior good, we buy less of it as our income increases.
 
-We can model these changes in prices and changes in behavior with indifference curves and budget lines, which are [covered in great detail in this guide here](/resource/indifference-budget/).
+We can model these changes in prices and changes in behavior with indifference curves and budget lines, which are [covered in great detail in this guide here](/resource/indifference-budget.qmd).
 
 The video embedded below—in addition to all these others—explains the process of doing this:
 
