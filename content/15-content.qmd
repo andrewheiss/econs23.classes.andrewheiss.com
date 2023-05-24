@@ -1,6 +1,7 @@
 ---
 title: "Markets, public policy, and public administration"
-date: "2022-07-25"
+date: "2023-07-24"
+date_end: "2023-07-25"
 params:
   pdf: slides/pmap8141_s23_15-slides.pdf
   thumb: slides/pmap8141_s23_15-slides.png

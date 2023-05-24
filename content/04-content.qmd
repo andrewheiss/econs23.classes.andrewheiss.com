@@ -1,6 +1,7 @@
 ---
 title: "Public policy for fairness and efficiency"
-date: "2022-06-13"
+date: "2023-06-12"
+date_end: "2023-06-16"
 params:
   pdf: slides/pmap8141_s23_04-slides.pdf
   thumb: slides/pmap8141_s23_04-slides.png

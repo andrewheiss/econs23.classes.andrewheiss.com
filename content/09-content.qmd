@@ -1,6 +1,7 @@
 ---
 title: "Firms and markets"
-date: "2022-07-05"
+date: "2023-07-03"
+date_end: "2023-07-07"
 params:
   pdf: slides/pmap8141_s23_09_10-slides.pdf
   thumb: slides/pmap8141_s23_09_10-slides.png

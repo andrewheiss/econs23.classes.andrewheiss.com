@@ -1,6 +1,7 @@
 ---
 title: "Markets and democracy"
-date: "2022-06-06"
+date: "2023-06-05"
+date_end: "2023-06-09"
 params:
   pdf: slides/pmap8141_s23_02-slides.pdf
   thumb: slides/pmap8141_s23_02-slides.png
