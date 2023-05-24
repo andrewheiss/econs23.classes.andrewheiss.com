@@ -13,8 +13,8 @@ The most important lesson to remember with monopolies is that monopolist firms w
 
 As with profit maximization and supply and demand, there are a ton of other resources online that you can references for additional help. [Khan Academy's monopoly unit is especially useful and easy to follow](https://www.khanacademy.org/economics-finance-domain/ap-microeconomics/imperfect-competition#ap-monopolies-tutorial).
 
-<div class="embed-responsive embed-responsive-16by9">
-<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/uSJzdXzYyvQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="ratio ratio-16x9">
+<iframe src="https://www.youtube.com/embed/uSJzdXzYyvQ" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0"></iframe>
 </div>
 
 &nbsp;

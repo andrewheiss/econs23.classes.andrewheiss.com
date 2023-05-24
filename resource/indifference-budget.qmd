@@ -36,8 +36,8 @@ Here's the general process for maximizing utility:
 2. Use calculus and prices to figure out the marginal rate of substitution (MRS)
 3. Set the budget line equal to the price-attuned MRS and use algebra to solve for $x$ and $y$
 
-<div class="embed-responsive embed-responsive-16by9">
-<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/e67XxMBUy48" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="ratio ratio-16x9">
+<iframe src="https://www.youtube.com/embed/e67XxMBUy48" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0"></iframe>
 </div>
 
 \ 

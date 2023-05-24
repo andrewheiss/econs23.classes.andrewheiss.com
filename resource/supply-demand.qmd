@@ -26,8 +26,8 @@ Because this is a foundational concept in microeconomics, there are a billion Yo
 - Jodi Beggs has a ton of videos related to supply and demand ([start here](https://www.youtube.com/watch?v=bVzx8fts8Ng&list=PL22785443C5FB0F83&index=13))
 - Jacob Clifford [has an entire unit on supply and demand here](https://www.youtube.com/watch?v=gdXoDkCfcM8&list=PL6B2DBE4C2FC8F845)
 
-<div class="embed-responsive embed-responsive-16by9">
-<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Mz0P_fXxik4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="ratio ratio-16x9">
+<iframe src="https://www.youtube.com/embed/Mz0P_fXxik4" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0"></iframe>
 </div>
 
 ## Supply, demand, surplus, DWL, and burdens
