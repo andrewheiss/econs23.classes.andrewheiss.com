@@ -87,7 +87,7 @@ costs_total_plot <- costs_total %>%
   mutate(cost_type = fct_inorder(cost_type))
 
 ggplot(costs_total_plot, aes(x = Quantity, y = value, color = cost_type)) +
-  geom_line(size = 1.5) +
+  geom_line(linewidth = 1.5) +
   scale_color_manual(values = c(nord_red, nord_dk_blue, nord_green),
                      name = NULL) +
   scale_x_continuous(breaks = seq(0, 10, 2), expand = c(0, 0)) +
@@ -137,9 +137,9 @@ costs_avg_plot <- costs_avg %>%
   mutate(cost_type = fct_inorder(cost_type))
 
 ggplot(costs_avg_plot, aes(x = Quantity, y = value, color = cost_type)) +
-  geom_line(size = 1.5) +
-  geom_vline(xintercept = mc_atc$root, linetype = "dashed", color = "grey70", size = 0.5) +
-  geom_hline(yintercept = atc_fun(mc_atc$root), linetype = "dashed", color = "grey70", size = 0.5) +
+  geom_line(linewidth = 1.5) +
+  geom_vline(xintercept = mc_atc$root, linetype = "dashed", color = "grey70", linewidth = 0.5) +
+  geom_hline(yintercept = atc_fun(mc_atc$root), linetype = "dashed", color = "grey70", linewidth = 0.5) +
   scale_color_manual(values = c(nord_red, nord_dk_blue, nord_green, nord_orange),
                      name = NULL) +
   scale_x_continuous(breaks = seq(0, 10, 2), expand = c(0, 0)) +
@@ -158,7 +158,7 @@ The firm's quantity decision depends on the market demand for chocolate milk. Th
 
 ```{r demand-fig, echo=FALSE}
 ggplot(milk_demand, aes(x = Quantity, y = Price)) + 
-  geom_line(size = 1.5, color = nord_orange) +
+  geom_line(linewidth = 1.5, color = nord_orange) +
   scale_x_continuous(expand = c(0, 0), breaks = seq(0, 10, 2)) + 
   scale_y_continuous(expand = c(0, 0)) +
   coord_cartesian(ylim = c(0, 55)) +
@@ -184,9 +184,9 @@ The firm can maximize its revenue by producing `r q_optimum_tr` gallons of milk,
 
 ```{r optimum-revenue, echo=FALSE}
 ggplot(filter(milk_revenue, Quantity > 0), aes(x = Quantity, y = TR)) +
-  geom_line(size = 1.5, color = nord_yellow) +
-  geom_vline(xintercept = q_optimum_tr, linetype = "dashed", color = "grey70", size = 0.5) +
-  geom_hline(yintercept = tr_fun(q_optimum_tr), linetype = "dashed", color = "grey70", size = 0.5) +
+  geom_line(linewidth = 1.5, color = nord_yellow) +
+  geom_vline(xintercept = q_optimum_tr, linetype = "dashed", color = "grey70", linewidth = 0.5) +
+  geom_hline(yintercept = tr_fun(q_optimum_tr), linetype = "dashed", color = "grey70", linewidth = 0.5) +
   scale_x_continuous(expand = c(0, 0), breaks = seq(0, 10, 2)) + 
   scale_y_continuous(expand = c(0, 0), labels = dollar) +
   coord_cartesian(ylim = c(0, 175), xlim = c(0, 11)) +
@@ -269,10 +269,10 @@ milk_mr_mc_plot <- milk_mr %>%
   mutate(type = fct_inorder(type))
 
 ggplot(milk_mr_mc_plot, aes(x = Quantity, y = value, color = type)) +
-  geom_line(size = 1.5) +
-  geom_vline(xintercept = mr_mc$root, linetype = "dashed", color = "grey70", size = 0.5) +
+  geom_line(linewidth = 1.5) +
+  geom_vline(xintercept = mr_mc$root, linetype = "dashed", color = "grey70", linewidth = 0.5) +
   geom_hline(yintercept = tr_fun(mr_mc$root, deriv = 1), 
-             linetype = "dashed", color = "grey70", size = 0.5) +
+             linetype = "dashed", color = "grey70", linewidth = 0.5) +
   scale_color_manual(values = c(nord_red, nord_dk_blue, nord_green, nord_orange),
                      name = NULL) +
   scale_x_continuous(breaks = seq(0, 10, 2), expand = c(0, 0)) +
@@ -360,9 +360,9 @@ labels_vertical <- tribble(
 
 plot_demand <- ggplot() +
   stat_function(data = tibble(x = 0:10), fun = price_fun, aes(x = x), 
-                size = 1.5, color = nord_orange) +
+                linewidth = 1.5, color = nord_orange) +
   geom_label(data = labels_horizontal, aes(x = x, y = y, label = label)) +
-  geom_vline(xintercept = q_optimum_tr, size = 0.5, color = "grey50") +
+  geom_vline(xintercept = q_optimum_tr, linewidth = 0.5, color = "grey50") +
   scale_x_continuous(expand = c(0, 0), breaks = seq(0, 10, 2)) +
   scale_y_continuous(expand = c(0, 0), labels = dollar) +
   coord_cartesian(ylim = c(0, 60)) +
@@ -371,9 +371,9 @@ plot_demand <- ggplot() +
   theme(panel.grid.minor = element_blank())
 
 plot_elasticity <- ggplot(milk_elasticities, aes(x = Quantity, y = `ε`)) +
-  geom_line(size = 1.5, color = nord_dk_blue) +
-  geom_hline(yintercept = 1, size = 0.5, color = "grey50") +
-  geom_vline(xintercept = q_optimum_tr, size = 0.5, color = "grey50") +
+  geom_line(linewidth = 1.5, color = nord_dk_blue) +
+  geom_hline(yintercept = 1, linewidth = 0.5, color = "grey50") +
+  geom_vline(xintercept = q_optimum_tr, linewidth = 0.5, color = "grey50") +
   geom_label(data = labels_vertical, aes(x = x, y = y, label = label)) +
   scale_x_continuous(expand = c(0, 0), breaks = seq(0, 10, 2)) + 
   scale_y_continuous(expand = c(0, 0)) +

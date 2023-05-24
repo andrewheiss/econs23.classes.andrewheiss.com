@@ -58,7 +58,7 @@ In this case our feasible set is not a production function—we aren't limited b
 budget <- function(x) (-0.5 * x) + 10
 
 ggplot(tibble(x = 0:20), aes(x = x)) +
-  stat_function(fun = budget, color = nord_yellow, size = 2) +
+  stat_function(fun = budget, color = nord_yellow, linewidth = 2) +
   annotate(geom = "label", x = 2.5, y = budget(2.5), label = "Budget line",
            color = nord_yellow, family = "IBM Plex Sans Condensed SemiBold", size = 4.5) +
   scale_x_continuous(expand = c(0, 0), breaks = seq(0, 25, 5)) + 
@@ -89,13 +89,13 @@ u_xy <- function(x, U) U / x
 
 ggplot(data = tibble(x = 0:20), aes(x = x)) +
   stat_function(fun = u_xy,
-                color = nord_red, size = 1, args = list(U = 40)) +
+                color = nord_red, linewidth = 1, args = list(U = 40)) +
   annotate(geom = "label", x = 5, y = u_xy(5, 40), label = "U = 40",
            color = nord_red, family = "IBM Plex Sans Condensed SemiBold", size = 4.5) +
-  stat_function(fun = u_xy, color = nord_dk_blue, size = 1, args = list(U = 20)) +
+  stat_function(fun = u_xy, color = nord_dk_blue, linewidth = 1, args = list(U = 20)) +
   annotate(geom = "label", x = 5, y = u_xy(5, 20), label = "U = 20",
            color = nord_dk_blue, family = "IBM Plex Sans Condensed SemiBold", size = 4.5) +
-  stat_function(fun = u_xy, color = nord_lt_blue, size = 1, args = list(U = 10)) +
+  stat_function(fun = u_xy, color = nord_lt_blue, linewidth = 1, args = list(U = 10)) +
   annotate(geom = "label", x = 5, y = u_xy(5, 10), label = "U = 10",
            color = nord_lt_blue, family = "IBM Plex Sans Condensed SemiBold", size = 4.5) +
   scale_x_continuous(expand = c(0, 0), breaks = seq(0, 25, 5)) + 
@@ -157,10 +157,10 @@ We can verify this combination graphically by plotting the budget line and indif
 
 ```{r all-together, echo=FALSE}
 ggplot(tibble(x = 0:20), aes(x = x)) +
-  stat_function(fun = budget, color = nord_yellow, size = 2) +
+  stat_function(fun = budget, color = nord_yellow, linewidth = 2) +
   annotate(geom = "label", x = 2.5, y = budget(2.5), label = "Budget line",
            color = nord_yellow, family = "IBM Plex Sans Condensed SemiBold", size = 4.5) +
-  stat_function(fun = u_xy, color = nord_red, size = 1, args = list(U = 50)) +
+  stat_function(fun = u_xy, color = nord_red, linewidth = 1, args = list(U = 50)) +
   annotate(geom = "label", x = 5, y = u_xy(5, 50), label = "U = 50",
            color = nord_red, family = "IBM Plex Sans Condensed SemiBold", size = 4.5) +
   annotate(geom = "point", x = 10, y = 5, size = 3, color = nord_dk_blue) +
@@ -184,7 +184,7 @@ You can avoid some of the math get the same answer by plotting these formulas at
 5. If you did it right, you should get an indifference curve tangent to the budget line at (10, 5).
 
 ```{r desmos-indifference, echo=FALSE, out.width="100%"}
-knitr::include_graphics("/img/guides/desmos-indifference.png", error = FALSE)
+knitr::include_graphics("/files/guides/desmos-indifference.png", error = FALSE)
 ```
 
 ## Waffles and calzones with different values
@@ -212,7 +212,7 @@ $$
 budget1 <- function(x) (-0.5 * x) + 10
 
 ggplot(tibble(x = 0:20), aes(x = x)) +
-  stat_function(fun = budget1, color = nord_yellow, size = 2) +
+  stat_function(fun = budget1, color = nord_yellow, linewidth = 2) +
   annotate(geom = "label", x = 2.5, y = budget1(2.5), label = "Budget line",
            color = nord_yellow, family = "IBM Plex Sans Condensed SemiBold", size = 4.5) +
   scale_x_continuous(expand = c(0, 0), breaks = seq(0, 25, 5)) + 
@@ -290,10 +290,10 @@ We'd get 592.5864 utils from 13.333 waffles and 3.333 calzones. Here's everythin
 u_xy1 <- function(x, U) U / x^2
 
 ggplot(tibble(x = 0:20), aes(x = x)) +
-  stat_function(fun = budget1, color = nord_yellow, size = 2) +
+  stat_function(fun = budget1, color = nord_yellow, linewidth = 2) +
   annotate(geom = "label", x = 2.5, y = budget1(2.5), label = "Budget line",
            color = nord_yellow, family = "IBM Plex Sans Condensed SemiBold", size = 4.5) +
-  stat_function(fun = u_xy1, color = nord_red, size = 1, args = list(U = 592.5864)) +
+  stat_function(fun = u_xy1, color = nord_red, linewidth = 1, args = list(U = 592.5864)) +
   annotate(geom = "label", x = 8, y = u_xy1(8, 592.5864), label = "U = 592.5864",
            color = nord_red, family = "IBM Plex Sans Condensed SemiBold", size = 4.5) +
   annotate(geom = "point", x = 40/3, y = 10/3, size = 3, color = nord_dk_blue) +
@@ -326,7 +326,7 @@ $$
 budget2 <- function(x) (-2 * x) + 30
 
 ggplot(tibble(x = 0:30), aes(x = x)) +
-  stat_function(fun = budget2, color = nord_yellow, size = 2) +
+  stat_function(fun = budget2, color = nord_yellow, linewidth = 2) +
   annotate(geom = "label", x = 2.5, y = budget2(2.5), label = "Budget line",
            color = nord_yellow, family = "IBM Plex Sans Condensed SemiBold", size = 4.5) +
   scale_x_continuous(expand = c(0, 0), breaks = seq(0, 25, 5)) + 
@@ -404,10 +404,10 @@ We'd get 250 utils from 10 waffles and 10 calzones. Here's everything all togeth
 u_xy2 <- function(x, U) (4 * U) / x^2
 
 ggplot(tibble(x = 0:20), aes(x = x)) +
-  stat_function(fun = budget2, color = nord_yellow, size = 2) +
+  stat_function(fun = budget2, color = nord_yellow, linewidth = 2) +
   annotate(geom = "label", x = 2.5, y = budget2(2.5), label = "Budget line",
            color = nord_yellow, family = "IBM Plex Sans Condensed SemiBold", size = 4.5) +
-  stat_function(fun = u_xy2, color = nord_red, size = 1, args = list(U = 250)) +
+  stat_function(fun = u_xy2, color = nord_red, linewidth = 1, args = list(U = 250)) +
   annotate(geom = "label", x = 7, y = u_xy2(7, 250), label = "U = 250",
            color = nord_red, family = "IBM Plex Sans Condensed SemiBold", size = 4.5) +
   annotate(geom = "point", x = 10, y = 10, size = 3, color = nord_dk_blue) +
@@ -442,7 +442,7 @@ $$
 budget3 <- function(x) (-.3 * x) + 18
 
 ggplot(tibble(x = 0:60), aes(x = x)) +
-  stat_function(fun = budget3, color = nord_yellow, size = 2) +
+  stat_function(fun = budget3, color = nord_yellow, linewidth = 2) +
   annotate(geom = "label", x = 10, y = budget3(10), label = "Budget line",
            color = nord_yellow, family = "IBM Plex Sans Condensed SemiBold", size = 4.5) +
   scale_x_continuous(expand = c(0, 0), breaks = seq(0, 60, 10)) + 
@@ -520,10 +520,10 @@ We'd get 16.43 utils from 30 waffles and 9 calzones. Here's everything all toget
 u_xy3 <- function(x, U) U^2 / x
 
 ggplot(tibble(x = 0:60), aes(x = x)) +
-  stat_function(fun = budget3, color = nord_yellow, size = 2) +
+  stat_function(fun = budget3, color = nord_yellow, linewidth = 2) +
   annotate(geom = "label", x = 10, y = budget3(10), label = "Budget line",
            color = nord_yellow, family = "IBM Plex Sans Condensed SemiBold", size = 4.5)  +
-  stat_function(fun = u_xy3, color = nord_red, size = 1, args = list(U = sqrt(270))) +
+  stat_function(fun = u_xy3, color = nord_red, linewidth = 1, args = list(U = sqrt(270))) +
   annotate(geom = "label", x = 20, y = u_xy3(20, sqrt(270)), label = "U = 16.43",
            color = nord_red, family = "IBM Plex Sans Condensed SemiBold", size = 4.5) +
   annotate(geom = "point", x = 30, y = 9, size = 3, color = nord_dk_blue) +

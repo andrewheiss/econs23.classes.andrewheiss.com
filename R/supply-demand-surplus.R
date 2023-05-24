@@ -102,22 +102,22 @@ tax_graph <- function(demand_fun, supply_fun, supply_tax, title, shaded = FALSE,
   full_plot <- base_plot +
     geom_segment(aes(x = equilibrium, xend = equilibrium, 
                      y = -Inf, yend = supply_fun(equilibrium)),
-                 color = "grey50", size = 0.5, linetype = "dashed") +
+                 color = "grey50", linewidth = 0.5, linetype = "dashed") +
     geom_segment(aes(x = -Inf, xend = equilibrium,
                      y = supply_fun(equilibrium), yend = supply_fun(equilibrium)),
-                 color = "grey50", size = 0.5, linetype = "dashed") +
+                 color = "grey50", linewidth = 0.5, linetype = "dashed") +
     geom_segment(aes(x = equilibrium_tax, xend = equilibrium_tax, 
                      y = -Inf, yend = supply_tax(equilibrium_tax)),
-                 color = "grey50", size = 0.5, linetype = "dashed") +
+                 color = "grey50", linewidth = 0.5, linetype = "dashed") +
     geom_segment(aes(x = -Inf, xend = equilibrium_tax,
                      y = supply_tax(equilibrium_tax), yend = supply_tax(equilibrium_tax)),
-                 color = "grey50", size = 0.5, linetype = "dashed") +
+                 color = "grey50", linewidth = 0.5, linetype = "dashed") +
     geom_segment(aes(x = -Inf, xend = equilibrium_tax,
                      y = supply_fun(equilibrium_tax), yend = supply_fun(equilibrium_tax)),
-                 color = "grey50", size = 0.5, linetype = "dashed") +
-    stat_function(fun = supply_fun, size = 1.5, color = nord_red) +
-    stat_function(fun = supply_tax, size = 1.5, color = nord_orange) +
-    stat_function(fun = demand_fun, size = 1.5, color = nord_dk_blue) +
+                 color = "grey50", linewidth = 0.5, linetype = "dashed") +
+    stat_function(fun = supply_fun, linewidth = 1.5, color = nord_red) +
+    stat_function(fun = supply_tax, linewidth = 1.5, color = nord_orange) +
+    stat_function(fun = demand_fun, linewidth = 1.5, color = nord_dk_blue) +
     annotate(geom = "label", x = 38, y = supply_fun(38), label = "S", 
              size = 4, fill = nord_red, color = "white") +
     annotate(geom = "label", x = 38, y = supply_tax(38), label = "S[tax]", 

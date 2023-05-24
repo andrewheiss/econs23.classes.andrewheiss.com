@@ -196,8 +196,8 @@ max_utility <- utility_u(optimal_x, optimal_y)
 
 ```{r echo=FALSE}
 ggplot(tibble(x = 0:20), aes(x = x)) +
-  stat_function(fun = budget, color = nord_yellow, size = 2) +
-  stat_function(fun = utility_y_manual, color = nord_red, size = 1, args = list(U = max_utility)) +
+  stat_function(fun = budget, color = nord_yellow, linewidth = 2) +
+  stat_function(fun = utility_y_manual, color = nord_red, linewidth = 1, args = list(U = max_utility)) +
   annotate(geom = "point", x = optimal_x, y = optimal_y, size = 3, color = nord_dk_blue) +
   scale_x_continuous(expand = c(0, 0), breaks = seq(0, 25, 5)) + 
   scale_y_continuous(expand = c(0, 0), breaks = seq(0, 35, 5)) +
@@ -255,8 +255,8 @@ max_utility <- utility_u(optimal_x, optimal_y)
 
 ```{r echo=FALSE}
 ggplot(tibble(x = 0:50), aes(x = x)) +
-  stat_function(fun = budget, color = nord_yellow, size = 2) +
-  stat_function(fun = utility_y_manual, color = nord_red, size = 1, args = list(U = max_utility)) +
+  stat_function(fun = budget, color = nord_yellow, linewidth = 2) +
+  stat_function(fun = utility_y_manual, color = nord_red, linewidth = 1, args = list(U = max_utility)) +
   annotate(geom = "point", x = optimal_x, y = optimal_y, size = 3, color = nord_dk_blue) +
   scale_x_continuous(expand = c(0, 0)) +
   scale_y_continuous(expand = c(0, 0)) +
@@ -316,8 +316,8 @@ max_utility <- utility_u(optimal_x, optimal_y)
 
 ```{r echo=FALSE}
 ggplot(tibble(x = 0:50), aes(x = x)) +
-  stat_function(fun = budget, color = nord_yellow, size = 2) +
-  stat_function(fun = utility_y_manual, color = nord_red, size = 1, args = list(U = max_utility)) +
+  stat_function(fun = budget, color = nord_yellow, linewidth = 2) +
+  stat_function(fun = utility_y_manual, color = nord_red, linewidth = 1, args = list(U = max_utility)) +
   annotate(geom = "point", x = optimal_x, y = optimal_y, size = 3, color = nord_dk_blue) +
   scale_x_continuous(expand = c(0, 0)) + 
   scale_y_continuous(expand = c(0, 0)) +
