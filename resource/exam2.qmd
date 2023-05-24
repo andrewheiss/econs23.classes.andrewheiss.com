@@ -117,7 +117,7 @@ title: Exam 2 study guide
 
 - Consumer surplus, producer surplus, tax revenues, tax burdens, and deadweight loss (use algebra and geometry to figure out the areas of the triangles ($\frac{1}{2} \times b \times h$) and rectangles ($l \times w$)):
 
-```{r supply-demand-surplus, echo=FALSE, warning=FALSE, message=FALSE, fig.width=5, fig.height=5, indent="    "}
+```{r supply-demand-surplus, echo=FALSE, warning=FALSE, message=FALSE, fig.width=5, fig.height=5, indent="  ", fig.align="center"}
 library(tidyverse)
 source(here::here("R", "graphics.R"))
 source(here::here("R", "supply-demand-surplus.R"))

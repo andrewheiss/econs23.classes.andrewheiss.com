@@ -32,10 +32,6 @@ Marcel Fafchamps and Bart Minten, two economists, studied grain markets in Madag
 5. What role can informal institutions play in these kind of interactions? (**≈30 words**)
 
 
-[^fafchamps]: @FafchampsMinten:1999
-[^ostrom]: @Ostrom:1990
-
-
 ## 2
 
 Discuss whether the following statements are true or false and explain why in **≈35 words each**: 
@@ -68,19 +64,19 @@ blank_board <- ggplot(board, aes(x = x, y = y, fill = as.factor(value))) +
 
 1. Get a checkerboard, 22 pennies, and 22 dimes (or 22 of something other than pennies). *Randomly* place the pennies and times on the squares on the board. Do not use the four corner squares. 
 
-    Draw the resulting pattern (use colors for the coin types, or symbols like • for pennies and # for dimes, or whatever):
+   Draw the resulting pattern (use colors for the coin types, or symbols like • for pennies and # for dimes, or whatever):
     
-    ```{r show-board-1, fig.width=2.5, fig.height=2.5, echo=FALSE}
-    blank_board
-    ```
+   ```{r show-board-1, fig.width=2.5, fig.height=2.5, echo=FALSE, fig.align="center"}
+   blank_board
+   ```
 
 2. Now pretend that each penny wants to live in a "neighborhood" (the nine squares of which they are the center) that has *at least as many pennies as dimes*. Start at one corner of the board and look at the first penny. Determine the makeup of its neighbors. If there are too many dimes around the penny, move the penny to the closest acceptable square. Move on to the next penny and check its neighborhood, moving it to a new area if necessary. Do this for all the pennies and then all the dimes.
 
-    Draw the resulting pattern:
+   Draw the resulting pattern:
     
-    ```{r show-board-2, fig.width=2.5, fig.height=2.5, echo=FALSE}
-    blank_board
-    ```
+   ```{r show-board-2, fig.width=2.5, fig.height=2.5, echo=FALSE, fig.align="center"}
+   blank_board
+   ```
     
 
 3. What does this example have to do with residential and school segregation? (**≈40 words**)
