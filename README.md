@@ -87,7 +87,7 @@ graph LR
 ## Fonts and colors
 
 The font used throughout the site is [IBM Plex Sans
-Condensted](https://fonts.google.com/specimen/IBM+Plex+Sans+Condensed).
+Condensed](https://fonts.google.com/specimen/IBM+Plex+Sans+Condensed).
 
 The colors for the site and hex logo come from the
 [Aurora](https://www.nordtheme.com/docs/colors-and-palettes#aurora) and
