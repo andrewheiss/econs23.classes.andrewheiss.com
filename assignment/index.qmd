@@ -27,7 +27,7 @@ There are two elements of this course that are designed to make social interacti
 
 To help facilitate online interaction, we will use Slack for communication. The iCollege forums are stodgy, overly formal, and clunky. Slack is not. 
 
-Access the class workspace [here](https://gsuecons23.slack.com), or click on the [<i class="fab fa-slack"></i>](https://gsuecons23.slack.com) icon in the header of this page. If you're unfamiliar with Slack, [scroll through Slack's official demo here](https://slackdemo.com/).
+Access the class workspace [here](https://gsuecons23.slack.com), or click on the [{{< fa brands slack >}}](https://gsuecons23.slack.com) icon in the header of this page. If you're unfamiliar with Slack, [scroll through Slack's official demo here](https://slackdemo.com/).
 
 There are two public channels in our class workspace:
 

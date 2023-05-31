@@ -127,8 +127,8 @@ tax_graph(demand, supply, supply_tax, NULL, TRUE)$plot
 
 **Helpful resources:**
 
-- [<i class="fab fa-youtube"></i> Derivatives of Exponential Functions](https://www.youtube.com/watch?v=xgarjF9DP78) (how to calculate derivatives quickly)
-- [<i class="fab fa-youtube"></i> Jason Welker, "Natural Monopoly and the Need for Government Regulation"](https://www.youtube.com/watch?v=LhiyJlI5xa0)
+- [{{< fa brands youtube >}} Derivatives of Exponential Functions](https://www.youtube.com/watch?v=xgarjF9DP78) (how to calculate derivatives quickly)
+- [{{< fa brands youtube >}} Jason Welker, "Natural Monopoly and the Need for Government Regulation"](https://www.youtube.com/watch?v=LhiyJlI5xa0)
 
 &nbsp;
 

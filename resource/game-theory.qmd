@@ -157,9 +157,9 @@ These calculations involve actual math, unlike the more simpler approach of cove
 
 There are a bunch of helpful external resources and examples of how to do this, including these. You should check these out if you're interested in this game theory stuff:
 
-- <i class="fas fa-external-link-square-alt"></i> [Policonomics, "Mixed strategies"](https://policonomics.com/mixed-strategy/)
-- <i class="fas fa-external-link-square-alt"></i> [Game Theory 101, "Calculating payoffs of mixed strategy Nash equilibria"](http://gametheory101.com/courses/game-theory-101/calculating-payoffs-of-mixed-strategy-nash-equilibria/)
-- <i class="fab fa-youtube"></i> [Game Theory 101, "Chicken"](https://www.youtube.com/watch?v=sww-Zsl0IRY) (a complete example of calculating everything in a chicken game)
+- {{< fa arrow-up-right-from-square >}} [Policonomics, "Mixed strategies"](https://policonomics.com/mixed-strategy/)
+- {{< fa arrow-up-right-from-square >}} [Game Theory 101, "Calculating payoffs of mixed strategy Nash equilibria"](http://gametheory101.com/courses/game-theory-101/calculating-payoffs-of-mixed-strategy-nash-equilibria/)
+- {{< fa brands youtube >}} [Game Theory 101, "Chicken"](https://www.youtube.com/watch?v=sww-Zsl0IRY) (a complete example of calculating everything in a chicken game)
 
 Let's do this with the Bach or Stravinksy game that [we used in session 3](/content/03-content.qmd):
 

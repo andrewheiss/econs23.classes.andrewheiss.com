@@ -17,7 +17,7 @@ source(here::here("R", "graphics.R"))
 
 Download this dataset (Source: [Global Consumption and Income Project](https://jackblun.github.io/Globalinc/). All incomes expressed in 2005 USD PPP.)
 
-- [<i class="fas fa-file-excel"></i> `gcip_raw.xlsx`](/files/files/gcip_raw.xlsx)
+- [[{{< fa file-excel >}} `gcip_raw.xlsx`](/files/files/gcip_raw.xlsx)
 
 1. Choose five countries you are interested in. 
 1. For each of these countries, calculate the 90/10 ratio for 1980, 1990, 2000, and 2014. Look at the [step-by-step instructions in ESPP](https://www.core-econ.org/espp/book/text/01.html#exercise-12-using-excel-income-data-and-the-richpoor-ratio).
@@ -29,7 +29,7 @@ Download this dataset (Source: [Global Consumption and Income Project](https://j
 
 Download this dataset (Source: ESPP. All numbers expressed in 1990 international USD (i.e. they're all real values; you don't need to adjust for inflation or anything)):
 
-- [<i class="fas fa-file-excel"></i> `global_income_raw.xlsx`](/files/files/global_income_raw.xlsx)
+- [[{{< fa file-excel >}} `global_income_raw.xlsx`](/files/files/global_income_raw.xlsx)
 
 1. Calculate the compound annual growth rate for China, Britain, Italy, and India for the years 1750–1850, 1851–1950, and 1951–2014.
 1. Include a table of these growth rates and try to plot them somehow.
@@ -73,7 +73,7 @@ cpi <- read_csv(here::here("files", "files", "CPIAUCSL.csv"))
 
 Download this dataset:
 
-- [<i class="fas fa-file-excel"></i> `fred_gdp.xlsx`](/files/files/fred_gdp.xlsx)
+- [[{{< fa file-excel >}} `fred_gdp.xlsx`](/files/files/fred_gdp.xlsx)
 
 Following [the examples on this page here](/resource/inflation.qmd), do the following with this data: 
 

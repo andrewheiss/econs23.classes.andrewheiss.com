@@ -58,7 +58,7 @@ title: Exam 1 study guide
 
 **Other helpful resources:**
 
-- [<i class="fas fa-external-link-square-alt"></i> CPI calculator](https://www.bls.gov/data/inflation_calculator.htm)
+- [{{< fa arrow-up-right-from-square >}} CPI calculator](https://www.bls.gov/data/inflation_calculator.htm)
 
 &nbsp;
 
@@ -80,10 +80,10 @@ title: Exam 1 study guide
 
 **Other helpful resources:**
 
-- [<i class="fas fa-external-link-square-alt"></i> Battle of the Sexes](http://policonomics.com/battle-of-the-sexes/) and [mixed strategies](http://policonomics.com/mixed-strategy/)
-- [<i class="fas fa-external-link-square-alt"></i> Prisoner's Dilemma and payoffs](http://policonomics.com/video-d3-prisoners-dilemma/)
-- [<i class="fab fa-youtube"></i> Chicken](https://www.youtube.com/watch?v=sww-Zsl0IRY)
-- [<i class="fas fa-external-link-square-alt"></i> 2×2 game solver to check mixed strategy answers](http://mindyourdecisions.com/GameSolver.html)
+- [{{< fa arrow-up-right-from-square >}} Battle of the Sexes](http://policonomics.com/battle-of-the-sexes/) and [mixed strategies](http://policonomics.com/mixed-strategy/)
+- [{{< fa arrow-up-right-from-square >}} Prisoner's Dilemma and payoffs](http://policonomics.com/video-d3-prisoners-dilemma/)
+- [{{< fa brands youtube >}} Chicken](https://www.youtube.com/watch?v=sww-Zsl0IRY)
+- [{{< fa arrow-up-right-from-square >}} 2×2 game solver to check mixed strategy answers](http://mindyourdecisions.com/GameSolver.html)
 
 &nbsp;
 
@@ -135,9 +135,9 @@ title: Exam 1 study guide
 
 **Other helpful resources:**
 
-- [<i class="fab fa-youtube"></i> How to draw income and substitution effects](https://www.youtube.com/watch?v=6ObXpWgYbJ8)
-- [<i class="fab fa-youtube"></i> Example Income and Subsitution Effects For Normal and Inferior Goods](https://www.youtube.com/watch?v=pLhh_D5b_Lg)
-- [<i class="fab fa-youtube"></i> Income and Substitution Effects](https://www.youtube.com/watch?v=GgzS04HCVbw)
+- [{{< fa brands youtube >}} How to draw income and substitution effects](https://www.youtube.com/watch?v=6ObXpWgYbJ8)
+- [{{< fa brands youtube >}} Example Income and Subsitution Effects For Normal and Inferior Goods](https://www.youtube.com/watch?v=pLhh_D5b_Lg)
+- [{{< fa brands youtube >}} Income and Substitution Effects](https://www.youtube.com/watch?v=GgzS04HCVbw)
 
 &nbsp;
 

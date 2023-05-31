@@ -10,19 +10,19 @@ toc: true
 
 ## Readings
 
-- <i class="fas fa-book"></i> 11.**7**–11.**14** in *Economy, Society, and Public Policy* [@core-espp]
-- <i class="far fa-file-pdf"></i> A. Danny Ellerman, ["US Experience with Emissions Trading"](http://www.cesifo-group.de/DocDL/dicereport407-forum3.pdf) [@Ellerman:2007]
-- <i class="fab fa-youtube"></i> *The Lorax*, ["How Bad Can I Be?"](https://www.youtube.com/watch?v=W_HUdf89hI8)
-- <i class="fas fa-podcast"></i> Freakonomics, ["Parking Is Hell,"](http://freakonomics.com/podcast/parking-is-hell-a-new-freakonomics-radio-podcast/) Episode 118, March 13, 2013
-- <i class="fas fa-podcast"></i> All Things Considered, ["Nobel Laureate: 'I've Been Wrong So Often, I Don't Find It Extraordinary At All',"](https://www.npr.org/sections/money/2012/05/09/152197483/nobel-laureate-ive-been-wrong-so-often-i-dont-find-it-extraordinary-at-all) May 8, 2012
-- <i class="fas fa-podcast"></i> All Things Considered, ["The Nobel Laureate Who Figured Out How To Deal With Annoying People,"](https://www.npr.org/sections/money/2013/09/10/218526472/the-nobel-prizewinner-who-figured-out-how-to-deal-with-annoying-people) September 3, 2013
+- {{< fa book >}} 11.**7**–11.**14** in *Economy, Society, and Public Policy* [@core-espp]
+- {{< fa file-pdf >}} A. Danny Ellerman, ["US Experience with Emissions Trading"](http://www.cesifo-group.de/DocDL/dicereport407-forum3.pdf) [@Ellerman:2007]
+- {{< fa brands youtube >}} *The Lorax*, ["How Bad Can I Be?"](https://www.youtube.com/watch?v=W_HUdf89hI8)
+- {{< fa podcast >}} Freakonomics, ["Parking Is Hell,"](http://freakonomics.com/podcast/parking-is-hell-a-new-freakonomics-radio-podcast/) Episode 118, March 13, 2013
+- {{< fa podcast >}} All Things Considered, ["Nobel Laureate: 'I've Been Wrong So Often, I Don't Find It Extraordinary At All',"](https://www.npr.org/sections/money/2012/05/09/152197483/nobel-laureate-ive-been-wrong-so-often-i-dont-find-it-extraordinary-at-all) May 8, 2012
+- {{< fa podcast >}} All Things Considered, ["The Nobel Laureate Who Figured Out How To Deal With Annoying People,"](https://www.npr.org/sections/money/2013/09/10/218526472/the-nobel-prizewinner-who-figured-out-how-to-deal-with-annoying-people) September 3, 2013
 
 
 ## Other useful resources
 
 I pause during the "Addressing external effects" and tell you to watch a video on cap and trade systems. Here's that video:
 
-- <i class="fab fa-youtube"></i> [Marginal Revolution University, "Trading Pollution: How Pollution Permits Paradoxically Reduce Emissions"](https://www.youtube.com/watch?v=9tUb3MDrgEc)
+- {{< fa brands youtube >}} [Marginal Revolution University, "Trading Pollution: How Pollution Permits Paradoxically Reduce Emissions"](https://www.youtube.com/watch?v=9tUb3MDrgEc)
 
 
 ## Slides

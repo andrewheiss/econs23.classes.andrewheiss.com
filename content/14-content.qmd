@@ -9,16 +9,16 @@ params:
 
 ## Readings
 
-- <i class="fas fa-external-link-square-alt"></i> Tim Harford, ["Do you believe in sharing?,"](https://www.ft.com/content/afc5377e-1026-11e3-a258-00144feabdc0) *Financial Times*, August 30, 2013
-- <i class="far fa-file-pdf"></i> Chapters 1 and 2 in Elinor Ostrom, *Governing the Commons: The Evolution of Institutions for Collective Action* [@Ostrom:1990]
+- {{< fa arrow-up-right-from-square >}} Tim Harford, ["Do you believe in sharing?,"](https://www.ft.com/content/afc5377e-1026-11e3-a258-00144feabdc0) *Financial Times*, August 30, 2013
+- {{< fa file-pdf >}} Chapters 1 and 2 in Elinor Ostrom, *Governing the Commons: The Evolution of Institutions for Collective Action* [@Ostrom:1990]
     - This one is super long and game theoretical. You can skim through lots of it (especially the mathy sections). But it's also pretty foundational to public administration, so it *is* important. Make sure you get the gist of what's happening, but *please* don't strain yourself with all the tiny details. Remember your grad school reading skills—read the introduction and conclusion, look around in the middle for things that look interesting, and make sure you understand the gist of what's going on.
-- <i class="fas fa-external-link-square-alt"></i> Aaron Vansintjan, ["What Nobel Laureate Elinor Ostrom's early work tells us about defunding the police"](https://www.shareable.net/what-one-nobel-prize-winning-economist-can-tell-us-about-defunding-and-abolishing-the-police/)
-- <i class="fab fa-twitter-square"></i> [Abigail York's Twitter thread](https://twitter.com/profabigailyork/status/1271136502399954947?s=21) on Ostrom's work on policing and local government (Ostrom went by "Lin," so don't get confused when Dr. York calls her that in the thread)
-- <i class="fas fa-external-link-square-alt"></i> Melanee Thomas and Lisa Lambert, ["A COVID-19 smackdown: why rule breakers need to be punished,"](https://www.cbc.ca/news/canada/calgary/covid-19-rule-breakers-elinor-ostrom-1.5536099) *CBC News*, April 18, 2020
+- {{< fa arrow-up-right-from-square >}} Aaron Vansintjan, ["What Nobel Laureate Elinor Ostrom's early work tells us about defunding the police"](https://www.shareable.net/what-one-nobel-prize-winning-economist-can-tell-us-about-defunding-and-abolishing-the-police/)
+- {{< fa brands twitter >}} [Abigail York's Twitter thread](https://twitter.com/profabigailyork/status/1271136502399954947?s=21) on Ostrom's work on policing and local government (Ostrom went by "Lin," so don't get confused when Dr. York calls her that in the thread)
+- {{< fa arrow-up-right-from-square >}} Melanee Thomas and Lisa Lambert, ["A COVID-19 smackdown: why rule breakers need to be punished,"](https://www.cbc.ca/news/canada/calgary/covid-19-rule-breakers-elinor-ostrom-1.5536099) *CBC News*, April 18, 2020
 
 ## Optional viewing but highly recommended
 
-- <i class="fas fa-tv"></i> WTIU Documentaries/PBS, ["Actual World, Possible Future"](https://www.pbs.org/video/actual-world-possible-future-09rkab/)
+- {{< fa tv >}} WTIU Documentaries/PBS, ["Actual World, Possible Future"](https://www.pbs.org/video/actual-world-possible-future-09rkab/)
 
 
 ## Slides

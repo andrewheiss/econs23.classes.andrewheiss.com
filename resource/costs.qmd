@@ -5,23 +5,23 @@ title: Firm costs + profit maximization
 
 Imagine a firm that produces chocolate milk using milk, cocoa powder, sugar, a spoon, a pot, and a refrigerator. The costs for creating different amounts of milk are all included in the Excel file below (and a finished version with all the decompositions and calculations is also included below).
 
-- [<i class="fas fa-file-excel"></i> Chocolate milk production (empty file)](/files/files/chocolate-milk.xlsx)
-- [<i class="fas fa-file-excel"></i> Chocolate milk production (completed file)](/files/files/chocolate-milk-filled.xlsx)
+- [[{{< fa file-excel >}} Chocolate milk production (empty file)](/files/files/chocolate-milk.xlsx)
+- [[{{< fa file-excel >}} Chocolate milk production (completed file)](/files/files/chocolate-milk-filled.xlsx)
 
 Let's use microeconomic principles to find out how much milk this firm should create if they want to maximize their profits and make the most money possible. Along the way we'll decompose their costs into fixed and variable costs, marginal costs, and average costs. Finally we'll find the elasticity of demand for chocolate milk to see how responsive consumers are to changes in chocolate milk prices.
 
 Because this is a foundational microeconomic principle, there are billions of YouTube videos out there with tutorial about how to calculate these things. You should check these out for additional reference and help:
 
-- <i class="fab fa-youtube"></i> [Jacob Clifford, "Short-Run Costs (Part 1)"](https://www.youtube.com/watch?v=ucJBO9UTmwo)
-- <i class="fab fa-youtube"></i> [Jacob Clifford, "Short-Run Costs (Part 2)"](https://www.youtube.com/watch?v=qYKJdooEnwU)
-- <i class="fab fa-youtube"></i> [Jacob Clifford, "Maximizing profit"](https://www.youtube.com/watch?v=BQvtnjWZ0ig)
-- <i class="fab fa-youtube"></i> [Jacob Clifford's entire production, cost, and perfect competition unit](https://www.youtube.com/playlist?list=PLE70CA726102FB294)
-- <i class="fab fa-youtube"></i> [Khan Academy, "Fixed, Variable, and Marginal Cost"](https://www.youtube.com/watch?v=bBQVaRnHqLs)
-- <i class="fab fa-youtube"></i> [Khan Academy "Visualizing average costs and marginal costs as slope"](https://www.youtube.com/watch?v=k1iHDu9GrJE)
-- <i class="fab fa-youtube"></i> [Jodi Beggs, "Calculating and graphic the costs of production"](https://www.youtube.com/watch?v=Fdt98k8Gjnc)
-- <i class="fab fa-youtube"></i> [Jodi Beggs, "Cost curves, economic profit, and supply"](https://www.youtube.com/watch?v=3Xi8zc9hzNo)
-- <i class="fab fa-youtube"></i> [Jodi Beggs, "Profit maximization"](https://www.youtube.com/watch?v=devjsF8shrU)
-- <i class="fab fa-youtube"></i> [Economicsfun, "How to Calculate Total Cost, Marginal Cost, Average Variable Cost, and ATC"](https://www.youtube.com/watch?v=98DcdXiNu4E)
+- {{< fa brands youtube >}} [Jacob Clifford, "Short-Run Costs (Part 1)"](https://www.youtube.com/watch?v=ucJBO9UTmwo)
+- {{< fa brands youtube >}} [Jacob Clifford, "Short-Run Costs (Part 2)"](https://www.youtube.com/watch?v=qYKJdooEnwU)
+- {{< fa brands youtube >}} [Jacob Clifford, "Maximizing profit"](https://www.youtube.com/watch?v=BQvtnjWZ0ig)
+- {{< fa brands youtube >}} [Jacob Clifford's entire production, cost, and perfect competition unit](https://www.youtube.com/playlist?list=PLE70CA726102FB294)
+- {{< fa brands youtube >}} [Khan Academy, "Fixed, Variable, and Marginal Cost"](https://www.youtube.com/watch?v=bBQVaRnHqLs)
+- {{< fa brands youtube >}} [Khan Academy "Visualizing average costs and marginal costs as slope"](https://www.youtube.com/watch?v=k1iHDu9GrJE)
+- {{< fa brands youtube >}} [Jodi Beggs, "Calculating and graphic the costs of production"](https://www.youtube.com/watch?v=Fdt98k8Gjnc)
+- {{< fa brands youtube >}} [Jodi Beggs, "Cost curves, economic profit, and supply"](https://www.youtube.com/watch?v=3Xi8zc9hzNo)
+- {{< fa brands youtube >}} [Jodi Beggs, "Profit maximization"](https://www.youtube.com/watch?v=devjsF8shrU)
+- {{< fa brands youtube >}} [Economicsfun, "How to Calculate Total Cost, Marginal Cost, Average Variable Cost, and ATC"](https://www.youtube.com/watch?v=98DcdXiNu4E)
 
 We'll do this with both Excel and with math formulas. These videos walk through how to do it both ways, and the text below provides more step-by-step instructions.
 

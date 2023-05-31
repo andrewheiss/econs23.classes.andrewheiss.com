@@ -14,21 +14,21 @@ Here's what we'll do:
 
 You can download this Excel file to follow along:
 
-- [<i class="fas fa-file-excel"></i> `fred_cpi.xlsx`](/files/files/fred_cpi.xlsx)
+- [[{{< fa file-excel >}} `fred_cpi.xlsx`](/files/files/fred_cpi.xlsx)
 
 You can also download this completed version:
 
-- [<i class="fas fa-file-excel"></i> `fred_cpi.xlsx`](/files/files/fred_cpi_cagr_example.xlsx)
+- [[{{< fa file-excel >}} `fred_cpi.xlsx`](/files/files/fred_cpi_cagr_example.xlsx)
 
 The data we'll use comes from the [Federal Reserve's FRED database](https://fred.stlouisfed.org/) (the St. Louis Fed office is responsible for maintaining Fed economic statistics).
 
-- [<i class="fas fa-chart-line"></i> GDP (nominal)](https://fred.stlouisfed.org/series/GDP)
-- [<i class="fas fa-chart-line"></i> GDP deflator](https://fred.stlouisfed.org/series/GDPDEF)
-- [<i class="fas fa-chart-line"></i> CPI](https://fred.stlouisfed.org/series/CPIAUCSL)
-- [<i class="fas fa-chart-line"></i> Personal income (nominal)](https://fred.stlouisfed.org/series/PINCOME)
-- [<i class="fas fa-chart-line"></i> Population](https://fred.stlouisfed.org/series/POPTOTUSA647NWDB)
-- [<i class="fas fa-chart-line"></i> Personal income per capita (nominal)](https://fred.stlouisfed.org/series/A792RC0A052NBEA)
-- [<i class="fas fa-chart-line"></i> Health expenditures per capita (nominal)](https://fred.stlouisfed.org/series/HLTHSCPCHCSA)
+- [{{< fa chart-line >}} GDP (nominal)](https://fred.stlouisfed.org/series/GDP)
+- [{{< fa chart-line >}} GDP deflator](https://fred.stlouisfed.org/series/GDPDEF)
+- [{{< fa chart-line >}} CPI](https://fred.stlouisfed.org/series/CPIAUCSL)
+- [{{< fa chart-line >}} Personal income (nominal)](https://fred.stlouisfed.org/series/PINCOME)
+- [{{< fa chart-line >}} Population](https://fred.stlouisfed.org/series/POPTOTUSA647NWDB)
+- [{{< fa chart-line >}} Personal income per capita (nominal)](https://fred.stlouisfed.org/series/A792RC0A052NBEA)
+- [{{< fa chart-line >}} Health expenditures per capita (nominal)](https://fred.stlouisfed.org/series/HLTHSCPCHCSA)
 
 
 ## Converting nominal values to real values

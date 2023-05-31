@@ -11,9 +11,9 @@ params:
 
 ***Important***: PDFs of the readings are on iCollege.
 
-- <i class="fas fa-external-link-square-alt"></i> Keira Shae, ["Dear American Taxpayers, Thank You for Saving My Life"](https://bycommonconsent.com/2018/07/04/dear-american-taxpayers-thank-you-for-saving-my-life/)
-- <i class="far fa-file-pdf"></i> Charles E. Lindblom, "The Science of 'Muddling Through'" [@Lindblom:1959]
-- <i class="far fa-file-pdf"></i> Esther Duflo, "Policies, Politics: Can Evidence Play a Role in the Fight Against Poverty" [@Duflo:2011]
+- {{< fa arrow-up-right-from-square >}} Keira Shae, ["Dear American Taxpayers, Thank You for Saving My Life"](https://bycommonconsent.com/2018/07/04/dear-american-taxpayers-thank-you-for-saving-my-life/)
+- {{< fa file-pdf >}} Charles E. Lindblom, "The Science of 'Muddling Through'" [@Lindblom:1959]
+- {{< fa file-pdf >}} Esther Duflo, "Policies, Politics: Can Evidence Play a Role in the Fight Against Poverty" [@Duflo:2011]
 
 
 ## Slides

@@ -9,20 +9,20 @@ params:
 
 ## Readings
 
-- <i class="fas fa-book"></i> 11.1-11.**6** in *Economy, Society, and Public Policy* [@core-espp]
-- <i class="fas fa-book"></i> 12.1-12.**6** in *Economy, Society, and Public Policy* [@core-espp]
-- <i class="fas fa-external-link-square-alt"></i> James Madison, [The Federalist Papers, #10](http://avalon.law.yale.edu/18th_century/fed10.asp)
-- <i class="fas fa-book"></i> Chapters 3, 4, and 8 in *Naked Economics* [@Wheelan:2019]
-- <i class="fas fa-podcast"></i> The Uncertain Hour, ["The Peanut Butter Grandma goes to Washington,"](https://www.marketplace.org/2017/10/25/business/uncertain-hour/s02-1-peanut-butter-grandma-goes-washington) season 2, episode 1
-- <i class="fas fa-podcast"></i> The Uncertain Hour, ["The Peanut Butter Wars,"](https://www.marketplace.org/2017/11/10/business/uncertain-hour/s02-2-peanut-butter-wars) season 2, episode 2
-- <i class="fas fa-podcast"></i> The Uncertain Hour, ["The Peanut Butter Verdict,"](https://www.marketplace.org/2017/11/22/business/uncertain-hour/s02-3-peanut-butter-verdict) season 2, episode 3
+- {{< fa book >}} 11.1-11.**6** in *Economy, Society, and Public Policy* [@core-espp]
+- {{< fa book >}} 12.1-12.**6** in *Economy, Society, and Public Policy* [@core-espp]
+- {{< fa arrow-up-right-from-square >}} James Madison, [The Federalist Papers, #10](http://avalon.law.yale.edu/18th_century/fed10.asp)
+- {{< fa book >}} Chapters 3, 4, and 8 in *Naked Economics* [@Wheelan:2019]
+- {{< fa podcast >}} The Uncertain Hour, ["The Peanut Butter Grandma goes to Washington,"](https://www.marketplace.org/2017/10/25/business/uncertain-hour/s02-1-peanut-butter-grandma-goes-washington) season 2, episode 1
+- {{< fa podcast >}} The Uncertain Hour, ["The Peanut Butter Wars,"](https://www.marketplace.org/2017/11/10/business/uncertain-hour/s02-2-peanut-butter-wars) season 2, episode 2
+- {{< fa podcast >}} The Uncertain Hour, ["The Peanut Butter Verdict,"](https://www.marketplace.org/2017/11/22/business/uncertain-hour/s02-3-peanut-butter-verdict) season 2, episode 3
 
 ## Other useful resources
 
-- <i class="fab fa-youtube"></i> [Khan Academy: Absolute and comparative advantage](https://www.khanacademy.org/economics-finance-domain/ap-macroeconomics/basic-economics-concepts-macro/scarcity-and-growth/v/comparative-advantage-specialization-and-gains-from-trade)
-- <i class="fas fa-podcast"></i> Planet Money, ["A Former Lobbyist Tells All,"](https://www.npr.org/sections/money/2012/01/27/145923803/the-friday-podcast-a-former-lobbyist-tells-all) Episode 341, January 27, 2012
-- <i class="fab fa-youtube"></i> [LSE Research: Washington's Revolving Door](https://www.youtube.com/watch?v=2XLuaebpdAA)
-- <i class="fas fa-external-link-square-alt"></i> John Sides, ["A new experiment shows how money buys access to Congress,"](https://www.washingtonpost.com/news/monkey-cage/wp/2014/03/11/a-new-experiment-shows-how-money-buys-access-to-congress/?utm_term=.52fe30402280) The Washington Post's Monkey Cage, March 11, 2014
+- {{< fa brands youtube >}} [Khan Academy: Absolute and comparative advantage](https://www.khanacademy.org/economics-finance-domain/ap-macroeconomics/basic-economics-concepts-macro/scarcity-and-growth/v/comparative-advantage-specialization-and-gains-from-trade)
+- {{< fa podcast >}} Planet Money, ["A Former Lobbyist Tells All,"](https://www.npr.org/sections/money/2012/01/27/145923803/the-friday-podcast-a-former-lobbyist-tells-all) Episode 341, January 27, 2012
+- {{< fa brands youtube >}} [LSE Research: Washington's Revolving Door](https://www.youtube.com/watch?v=2XLuaebpdAA)
+- {{< fa arrow-up-right-from-square >}} John Sides, ["A new experiment shows how money buys access to Congress,"](https://www.washingtonpost.com/news/monkey-cage/wp/2014/03/11/a-new-experiment-shows-how-money-buys-access-to-congress/?utm_term=.52fe30402280) The Washington Post's Monkey Cage, March 11, 2014
 
 
 ## Slides
