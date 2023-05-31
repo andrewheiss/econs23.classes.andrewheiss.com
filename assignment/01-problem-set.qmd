@@ -11,7 +11,12 @@ source(here::here("R", "graphics.R"))
 
 **Submit this as a PDF on iCollege.** Show your work when possible.
 
-**Important reminder!**: Remember to check the how-to guides in the [resources section](/resource/index.qmd) of the course website for step-by-step examples (with video!) of how to do the more mathy problems in this class. You'll want to refer to the guides on [inflation and change](/resource/inflation.qmd) and [absolute and comparative advantage](/resource/advantage.qmd) for this problem set.
+::: {.callout-important}
+### Check the guides!
+
+Remember to check the how-to guides in the [resources section](/resource/index.qmd) of the course website for step-by-step examples (with video!) of how to do the more mathy problems in this class. You'll want to refer to the guides on [inflation and change](/resource/inflation.qmd) and [absolute and comparative advantage](/resource/advantage.qmd) for this problem set.
+:::
+
 
 ## 1
 
@@ -60,6 +65,12 @@ Based on this information, which of the following statements regarding GDP per c
 
 ## 4
 
+::: {.callout-tip}
+### Helpful guide
+
+You'll want to refer to the guide on [inflation and change](/resource/inflation.qmd) for this question.
+:::
+
 ```{r cpi, include=FALSE, warning=FALSE, message=FALSE}
 cpi <- read_csv(here::here("files", "files", "CPIAUCSL.csv"))
 ```
@@ -70,6 +81,12 @@ cpi <- read_csv(here::here("files", "files", "CPIAUCSL.csv"))
 
 
 ## 5
+
+::: {.callout-tip}
+### Helpful guide
+
+You'll want to refer to the guide on [inflation and change](/resource/inflation.qmd) for this question.
+:::
 
 Download this dataset:
 
@@ -94,6 +111,12 @@ How does democracy (including the rule of law) address Madison’s concerns to o
 
 
 ## 7
+
+::: {.callout-tip}
+### Helpful guide
+
+You'll want to refer to the guide on [absolute and comparative advantage](/resource/advantage.qmd) for this question.
+:::
 
 Thailand and Cambodia produce rice and trucks at constant rates of product transformation (their possibility frontiers are straight lines—they don't make more or less of the product depending on how much they're currently making). In one year, Thailand could produce 1,500 tons of rice and no trucks, 500 boatloads of trucks and no rice, or any combination in between. Cambodia can produce 1,000 tons of rice or 200 boatloads of trucks, or somewhere in between. **Answer the following**:
 
