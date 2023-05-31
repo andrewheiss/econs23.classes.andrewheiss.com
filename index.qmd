@@ -34,6 +34,7 @@ course-logo: /files/course-icon.png
 - {{< fa calendar-alt >}} &nbsp; {{< var course.dates >}}
 - {{< fa clock >}} &nbsp; {{< var course.time >}}
 - {{< fa location-dot >}} &nbsp; {{< var course.location >}}
+- {{< fa brands slack >}} &nbsp; [Slack]({{< var course.slack >}})
 :::
 
 ::: {.g-col-12 .g-col-md-4 .contact-policy}
