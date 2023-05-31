@@ -66,7 +66,7 @@ cat("\n```")
 
 ## Fonts and colors
 
-The font used throughout the site is [IBM Plex Sans Condensted](https://fonts.google.com/specimen/IBM+Plex+Sans+Condensed).
+The font used throughout the site is [IBM Plex Sans Condensed](https://fonts.google.com/specimen/IBM+Plex+Sans+Condensed).
 
 The colors for the site and hex logo come from the [Aurora](https://www.nordtheme.com/docs/colors-and-palettes#aurora) and [Frost](https://www.nordtheme.com/docs/colors-and-palettes#frost) palettes from [Nord](https://www.nordtheme.com/):
 
