@@ -33,6 +33,8 @@ library(kableExtra)
 
 options(dplyr.summarise.inform = FALSE,
         knitr.kable.NA = "")
+
+knitr::opts_chunk$set(fig.align = "center")
 ```
 
 ## Course objectives
@@ -58,13 +60,9 @@ Most of the readings in this class are **free**.
 
 We will only use one physical textbook. There are two official textbooks for the class:
 
-- Charles Wheelan, *Naked Economics: Undressing the Dismal Science*, 3rd ed. (New York: W. W. Norton & Company, 2019).
+- Charles Wheelan, *Naked Economics: Undressing the Dismal Science*, 3rd ed. (New York: W. W. Norton & Company, 2019). \$11 used, \$12 new at [Amazon](https://www.amazon.com/Naked-Economics-Undressing-Dismal-Science/dp/0393356493/). The 2019 edition is preferred; the 2010 edition should be okay too, since the chapters line up.
 
-    > \$11 used, \$12 new at [Amazon](https://www.amazon.com/Naked-Economics-Undressing-Dismal-Science/dp/0393356493/). The 2019 edition is preferred; the 2010 edition should be okay too, since the chapters line up.
-
-- The CORE Team, *Economy, Society, and Public Policy*, 2019, <https://www.core-econ.org/espp/>.
-
-    > [**FREE** online](https://www.core-econ.org/espp/).
+- The CORE Team, *Economy, Society, and Public Policy*, 2019, <https://www.core-econ.org/espp/>. [**FREE** online](https://www.core-econ.org/espp/).
 
 [CORE Econ](https://www.core-econ.org/) is a special new project that aims to make economics education accessible to all, replacing textbooks that cost hundreds of dollars with an open source textbook complete with videos and quizzes and other online resources. It's even been [lauded by The Economist](https://www.economist.com/news/finance-and-economics/21729443-students-are-forced-grapple-real-world-very-beginning-their).
 
@@ -92,9 +90,13 @@ This syllabus reflects a plan for the semester. Deviations may become necessary 
 
 ### Student hours
 
-Please watch this video:
+Please watch this video: <small>(*this is not me, btw—this is a different Andrew*)</small>
 
-<iframe src="https://player.vimeo.com/video/270014784" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen style="display: block; margin: 0 auto 1rem;"></iframe>
+<div class="ratio ratio-16x9">
+<iframe src="https://player.vimeo.com/video/270014784" frameborder="0" allow="autoplay; fullscreen" allowfullscreen style="display: block; margin: 0 auto 1rem;"></iframe>
+</div>
+
+\ 
 
 Student hours are set times dedicated to all of you (most professors call these "office hours"; I don't[^officehours]). This means that I will be ~~in my office~~ at home (wistfully) waiting for you to ~~come by~~ talk to me remotely with whatever questions you have. This is the best and easiest way to find me and the best chance for discussing class material and concerns.
 
@@ -107,7 +109,7 @@ Because of the pandemic, we cannot meet in person. I can meet you online via Web
 
 Life absolutely sucks right now. None of us is really okay. **We're all just pretending.**
 
-You most likely know people who have lost their jobs, have tested positive for COVID-19, have been hospitalized, or perhaps have even died. You all have increased (or possibly decreased) work responsibilities and increased family care responsibilities—you might be caring for extra people (young and/or old!) right now, and you are likely facing uncertain job prospects (or have been laid off!). 
+You most likely know people who have lost their jobs, have gotten COVID-19, have been hospitalized, or perhaps have even died. You all have increased (or possibly decreased) work responsibilities and increased family care responsibilities—you might be caring for extra people (young and/or old!) right now, and you are likely facing uncertain job prospects (or have been laid off!).
 
 **I'm fully committed to making sure that you learn everything you were hoping to learn from this class!** I will make whatever accommodations I can to help you finish your exercises, do well on your projects, and learn and understand the class material. Under ordinary conditions, I am flexible and lenient with grading and course expectations when students face difficult challenges. Under pandemic conditions, that flexibility and leniency is intensified.
 
