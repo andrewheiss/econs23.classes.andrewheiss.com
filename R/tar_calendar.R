@@ -35,10 +35,10 @@ build_schedule_for_page <- function(schedule_file) {
       glue(""))) %>%
     mutate(var_content = ifelse(!is.na(content),
       glue('<a href="{content}.qmd"><i class="fa-solid fa-book-open-reader fa-lg"></i></a>'),
-      glue('<font color="#bf616a"><i class="fa-solid fa-book-open-reader fa-lg"></i></font>'))) %>%
+      glue('<font color="#e9ecef"><i class="fa-solid fa-book-open-reader fa-lg"></i></font>'))) %>%
     mutate(var_assignment = ifelse(!is.na(assignment),
       glue('<a href="{assignment}.qmd"><i class="fa-solid fa-pen-ruler fa-lg"></i></a>'),
-      glue('<font color="#bf616a"><i class="fa-solid fa-pen-ruler fa-lg"></i></font>'))) %>%
+      glue('<font color="#e9ecef"><i class="fa-solid fa-pen-ruler fa-lg"></i></font>'))) %>%
     mutate(date_range = ifelse(!is.na(end_date),
       glue('{format(date, "%B %e")}–{format(end_date, "%B %e")}'), NA)) %>% 
     mutate(date_range_group = consecutive_id(date_range)) %>%
