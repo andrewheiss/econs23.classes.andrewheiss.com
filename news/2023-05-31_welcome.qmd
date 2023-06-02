@@ -14,7 +14,7 @@ I have a few important announcements before class:
 
 - The entire course is available at a special class website at <https://econs23.classes.andrewheiss.com/>. Bookmark this site—it'll be your best friend for the next semester. I only use iCollege for collecting your assignments, posting answer keys, and offering the two exams (since it's password protected). This website is the official source of dates and all other class information. Because it's not part of iCollege, you'll be able to reference it even after you graduate and lose access to GSU resources. You can even share it with others—it's just a website!
 
-- **Please read the main explanatory pages at your earliest convenience.** The instructions and expectations for the class are divided across different pages, all accessible from the menu bar at the top of the site. Please read the main pages for the [syllabus](/syllabus.qmd), [schedule](/schedule.qmd), [content](/content/index.qmd), and [assignments](/assignments/index.qmd).
+- **Please read the main explanatory pages at your earliest convenience.** The instructions and expectations for the class are divided across different pages, all accessible from the menu bar at the top of the site. Please read the main pages for the [syllabus](/syllabus.qmd), [schedule](/schedule.qmd), [content](/content/index.qmd), and [assignments](/assignment/index.qmd).
 
 - If you look at the [syllabus page](/syllabus.qmd), you'll notice that there is only one physical textbook for the class (and it’s ≈$11). Everything else is free. There will occasionally be copyrighted PDFs of articles or chapters from other books—those are available on iCollege.
 
