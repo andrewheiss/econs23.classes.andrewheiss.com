@@ -16,7 +16,7 @@ params:
 - {{< fa brands youtube >}} Marginal Revolution University, [Moral Hazard](https://www.youtube.com/watch?v=5v7TWKlYoN0)
 - {{< fa brands youtube >}} Marginal Revolution University, [Solutions to Moral Hazard](https://www.youtube.com/watch?v=6faL76QZ2AA)
 - Look at these real-life examples of information asymmetries and principal-agent problems:
-    - {{< fa arrow-up-right-from-square >}} Sam Dolnick, ["Air-Conditioners That Run When Nobody's Home,"](http://www.nytimes.com/2010/08/16/nyregion/16chill.html) *New York Times*, August 15, 2010
+    - {{< fa arrow-up-right-from-square >}} Sam Dolnick, ["Air-Conditioners That Run When Nobody's Home,"](http://www.nytimes.com/2010/08/16/nyregion/16chill.html) *New York Times*, August 15, 2010 (a PDF version of this is on iCollege under "Content" if you can't access it with the URL)
     - {{< fa arrow-up-right-from-square >}} Ceci Connolly, ["U.S. worker's case reveals how drug cartels get help from this side of border,"](http://www.washingtonpost.com/wp-dyn/content/article/2010/09/11/AR2010091105087.html) *Washington Post*, September 12, 2010
     - {{< fa arrow-up-right-from-square >}} Rob Ferguson, ["Ontario’s winter roads 'less safe' since privatization: auditor,"](https://www.thestar.com/news/canada/2015/04/29/ontarios-winter-roads-are-less-safe-since-privatization-auditor.html) *The Star*, April 29, 2015
 

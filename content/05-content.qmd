@@ -12,7 +12,7 @@ params:
 - {{< fa book >}} Introduction and 4.1-4.12 in *Economy, Society, and Public Policy* [@core-espp]
 - {{< fa book >}} Chapters 2 and 6 in *Naked Economics* [@Wheelan:2019]
 - {{< fa arrow-up-right-from-square >}} Anuschka de Rohan, ["Why dolphins are deep thinkers",](https://www.theguardian.com/science/2003/jul/03/research.science) The Guardian, July 2, 2003 (first 3 paragraphs only)
-- {{< fa arrow-up-right-from-square >}} Charles Duhigg, ["Warning: Habits May Be Good for You,"](http://www.nytimes.com/2008/07/13/business/13habit.html) New York Times, July 13, 2008
+- {{< fa arrow-up-right-from-square >}} Charles Duhigg, ["Warning: Habits May Be Good for You,"](http://www.nytimes.com/2008/07/13/business/13habit.html) New York Times, July 13, 2008 (a PDF version of this is on iCollege under "Content" if you can't access it with the URL)
 - {{< fa arrow-up-right-from-square >}} Randall Munroe, ["Cost of Pennies"](https://what-if.xkcd.com/22/)
 - {{< fa arrow-up-right-from-square >}} Randall Munroe, ["Working"](https://xkcd.com/951/)
 
